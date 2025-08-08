@@ -1,7 +1,7 @@
 ### <div align="center">Olá, eu sou o Gabriel</div>  
   
 
-- Desenvolvedor FULL-STACK iniciante, um apaixonado pela tecnologia em busca de iniciar sua carreira e me aprimorar cada vez mais na área.  
+- Desenvolvedor FULL-STACK, um apaixonado pela tecnologia em busca de me aprimorar cada vez mais na área.  
   
 
 <br/>  
